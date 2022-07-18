@@ -33,7 +33,7 @@ Data(x=[21, 1], y=16.280000686645508, pos=[21, 3], edge_index_3=[2, 148], edge_i
 | `data.edge_index_5`  | A tensor, the edge_index of the molecular graph with 5 Å distance cutoff.                                                                                                       |
 | `data.edge_index_10` | A tensor, the edge_index of the molecular graph with 10 Å distance cutoff.                                                                                                      |
 | `data.edge_index_20` | A tensor, the edge_index of the molecular graph with 20 Å distance cutoff.                                                                                                      |
-| `bond_index`         | A tensor, the bond_index of the molecular graph (based on the molecule' connectivity).                                                                                          |
+| `data.bond_index`    | A tensor, the bond_index of the molecular graph (based on the molecule' connectivity).                                                                                          |
 | `data.solvent`       | A tensor, the solvent id. <br/>`{'water': 0, 'dimethylsulfoxide': 1, 'dichloromethane': 2, 'acetonitrile': 3}`                                                                  |
 | `data.nuc_index`     | A tensor, the nucleophilic atom's index in the molecule; starts from 1.                                                                                                         |
 | `data.cdft`          | A tensor, the 9 cdft indices and solvation energy of the molecule.                                                                                                              |
