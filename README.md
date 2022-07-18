@@ -69,8 +69,8 @@ Other detailed training parameters, e.g., batch size and epochs, can be modified
 
 * [1] Schütt, K. T.; Kindermans, P.-J.; Sauceda, H. E.; Chmiela, S.; Tkatchenko, A.; Müller, K.-R.
   SchNet: A continuous-filter convolutional neural network for modeling quantum interactions.
-  *Advances in Neural Information Processing Systems* 30, pp. 992-1002 (**
-  2017**) [link](http://papers.nips.cc/paper/6700-schnet-a-continuous-filter-convolutional-neural-network-for-modeling-quantum-interactions)
+  *Advances in Neural Information Processing Systems* 30, pp. 992-1002 
+  (**2017**) [link](http://papers.nips.cc/paper/6700-schnet-a-continuous-filter-convolutional-neural-network-for-modeling-quantum-interactions)
 
 * [2] Mayr, H.; Schneider, R.; Schade, C.; Bartl, J.; Bederke, R.
   Addition reactions of diarylcarbenium ions to 2-methyl-1-pentene: kinetic method and reaction mechanism.
